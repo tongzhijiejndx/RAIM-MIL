@@ -51,7 +51,7 @@ CONFIG = {
     "TASKS": ["Task1_0_vs_123", "Task2_1_vs_23"],
 
     "REQUIRE_POSITIVE_PATCH": True,
-    "TOPK_RATIO": 0.10,
+    "TOPK_RATIO": 0.20,
 
     "SAVE_DIR": os.path.join(CUR_DIR, "attention_roi_consistency_results"),
 }
@@ -185,7 +185,7 @@ def forward_one_pt_ensemble(pt_path: str, ckpt_paths: List[str]):
     }
 
 
-def compute_attn_roi_metrics(attn: Optional[np.ndarray], patch_labels: np.ndarray, topk_ratio: float = 0.10):
+def compute_attn_roi_metrics(attn: Optional[np.ndarray], patch_labels: np.ndarray, topk_ratio: float = 0.20):
     if attn is None:
         return None
 

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc4112fe-460a-4c39-8af3-950eca4a4e27" name="Default Changelist" comment="The first time to upload RAIM-MIL project files.">
+      <change beforePath="$PROJECT_DIR$/image_only/con_image_only.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_only/con_image_only.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="3CyQgeun4iFh7sm15XjpaCrNXap" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc4112fe-460a-4c39-8af3-950eca4a4e27" name="Default Changelist" comment="" />
+      <created>1777355442197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777355442197</updated>
+      <workItem from="1777355443360" duration="4455000" />
+      <workItem from="1777425518598" duration="2426000" />
+      <workItem from="1778115319885" duration="152000" />
+      <workItem from="1778298017912" duration="264000" />
+    </task>
+    <task id="LOCAL-00001" summary="The first time to upload RAIM-MIL project files.">
+      <created>1777355873853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777355873853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The first time to upload RAIM-MIL project files." />
+    <option name="LAST_COMMIT_MESSAGE" value="The first time to upload RAIM-MIL project files." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="805" y="293" key="FileChooserDialogImpl" timestamp="1777355620606">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="805" y="293" key="FileChooserDialogImpl/0.0.2048.1104@0.0.2048.1104" timestamp="1777355620606" />
+    <state x="498" y="177" key="SettingsEditor" timestamp="1777356643138">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="498" y="177" key="SettingsEditor/0.0.2048.1104@0.0.2048.1104" timestamp="1777356643138" />
+    <state x="687" y="241" key="search.everywhere.popup" timestamp="1778115463471">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="687" y="241" key="search.everywhere.popup/0.0.2048.1104@0.0.2048.1104" timestamp="1778115463471" />
+  </component>
+</project>
